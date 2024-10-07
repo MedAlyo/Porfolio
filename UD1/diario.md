@@ -1,5 +1,5 @@
 # What I learned
-Nothing
-# What I didn't learn
-Everything
+How to use markdown and github
+
+# What I didn't understand
 
