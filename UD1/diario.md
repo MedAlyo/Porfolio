@@ -1,3 +1,6 @@
+# Introduction
+This is a summary of what we did in the first class of DAW.
+
 # What I learned
 How to use markdown and GitHub, and how to create repositories inside of GitHub and add files to those repos.
 
