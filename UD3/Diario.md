@@ -35,7 +35,25 @@ This project was made to learn how to install and work with apache.
 - Lets create an HTML file
 ![Screenshot from 2024-11-08 16-27-27](https://github.com/user-attachments/assets/f742d918-66a8-49ab-954b-005dea17f9dd)
 - The code used in this HTML
-  
+![Screenshot from 2024-11-08 16-28-45](https://github.com/user-attachments/assets/7ccc5ce2-e787-4e51-a908-b56d74b3214c)
+
+### Setting up the VirtualHost Configuration File
+- We start this step by going into the configuration files directory
+![Screenshot from 2024-11-08 16-38-34](https://github.com/user-attachments/assets/894b7846-59ba-4d99-834d-fd761bfe485b)
+- Since Apache came with a default VirtualHost file, let’s use that as a base.
+![Screenshot from 2024-11-08 16-40-35](https://github.com/user-attachments/assets/b5c3827e-72f4-479d-8ee5-757d89140e7f)
+- Now we edit the configuration file
+![Screenshot from 2024-11-08 16-49-44](https://github.com/user-attachments/assets/ec8ff112-a1a6-435b-9570-2a7221852259)
+- We uncomment the ServerName and change it, and We also want the DocumentRoot directive to point to the directory our site files are hosted on.
+![Screenshot from 2024-11-08 16-49-17](https://github.com/user-attachments/assets/936f47b4-0093-44eb-894e-695d944b5666)
+
+### Activating VirtualHost file
+- we need to activate the virtual hosts configuration file to enable it
+![Screenshot from 2024-11-08 16-55-15](https://github.com/user-attachments/assets/de227a84-1e9c-422d-825d-2a242a8513c8)
+- 
+
+
+
 
 
 
