@@ -23,7 +23,15 @@ Originally based on the NCSA HTTPd server, development of Apache began in early 
 
 ## Motivation
 
-This 
+This project was made to learn how to install and work with apache.
+
+## Configuration
+
+### Creating My Own Website
+- Creating a folder for our new website in /var/www/ by running
+
+![Screenshot from 2024-11-08 16-17-40](https://github.com/user-attachments/assets/6d20daa9-28ba-46a4-95f6-8a5a5afcfab1)
+
 
 
 # bibliography
