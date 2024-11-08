@@ -45,7 +45,8 @@ This project was made to learn how to install and work with apache.
 - Now we edit the configuration file  
 ![Screenshot from 2024-11-08 16-49-44](https://github.com/user-attachments/assets/ec8ff112-a1a6-435b-9570-2a7221852259)
 - We uncomment the ServerName and change it, and We also want the DocumentRoot directive to point to the directory our site files are hosted on.  
-![Screenshot from 2024-11-08 16-49-17](https://github.com/user-attachments/assets/936f47b4-0093-44eb-894e-695d944b5666)
+![Screenshot From 2024-11-08 18-07-32](https://github.com/user-attachments/assets/4b0c1ca2-5931-4b08-bc80-d08d66ab2e40)
+
 
 ### Activating VirtualHost file
 - we need to activate the virtual hosts configuration file to enable it  
@@ -54,6 +55,7 @@ This project was made to learn how to install and work with apache.
 ![Screenshot from 2024-11-08 16-56-41](https://github.com/user-attachments/assets/f10b5cc3-7431-4280-89ba-96837e6c4b63)
 - End result  
 ![Screenshot from 2024-11-08 17-30-17](https://github.com/user-attachments/assets/d641d000-66bd-4dc3-9fa1-f374d9d5f6b1)
+- If the url doesn't work then go to **/etc/hosts** in your files, and add **127.0.1.2 gci.example.com** after the 127.0.1.1 Ubuntu
 
 
 
