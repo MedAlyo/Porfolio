@@ -58,9 +58,11 @@ This project was made to learn how to install and work with apache.
 - If the url doesn't work then go to **/etc/hosts** in your files, and add **127.0.1.2 gci.example.com** after the 127.0.1.1 Ubuntu
 ![Screenshot From 2024-11-08 18-12-20](https://github.com/user-attachments/assets/beecb31c-5fe4-4185-be8a-54a581d5b4b4)
 
+## Conclusion
+In this project, I explored the installation and configuration of the Apache web server, gaining hands-on experience in setting up a basic website and customizing the server to serve my content. Apache's flexibility and widespread use make it an essential tool for web developers, and through this process, I learned how to create a custom site folder, configure the VirtualHost settings, and troubleshoot common issues related to Apache configuration.
 
 
 # bibliography
-- What is Apache(https://www.greengeeks.com/blog/what-is-apache/#What_Is_Apache)
-- Apache server(https://en.wikipedia.org/wiki/Apache_HTTP_Server)
+- What is Apache (https://www.greengeeks.com/blog/what-is-apache/#What_Is_Apache)
+- Apache server (https://en.wikipedia.org/wiki/Apache_HTTP_Server)
 - resolving the problem (https://discourse.ubuntu.com/t/install-and-configure-apache/13955)
