@@ -30,29 +30,29 @@ This project was made to learn how to install and work with apache.
 ### Creating My Own Website
 - Creating a folder for our new website in /var/www/ by running  
 ![Screenshot from 2024-11-08 16-21-15](https://github.com/user-attachments/assets/1d1c7009-db1d-4fb4-a75d-2a6c40887ff9)
-- Let’s go into our newly created directory
+- Let’s go into our newly created directory  
 ![Screenshot from 2024-11-08 16-19-18](https://github.com/user-attachments/assets/cae572d8-ca3c-4efd-a4a7-c3165bf8d2fc)
-- Lets create an HTML file
+- Lets create an HTML file  
 ![Screenshot from 2024-11-08 16-27-27](https://github.com/user-attachments/assets/f742d918-66a8-49ab-954b-005dea17f9dd)
-- The code used in this HTML
+- The code used in this HTML  
 ![Screenshot from 2024-11-08 16-28-45](https://github.com/user-attachments/assets/7ccc5ce2-e787-4e51-a908-b56d74b3214c)
 
 ### Setting up the VirtualHost Configuration File
-- We start this step by going into the configuration files directory
+- We start this step by going into the configuration files directory  
 ![Screenshot from 2024-11-08 16-38-34](https://github.com/user-attachments/assets/894b7846-59ba-4d99-834d-fd761bfe485b)
-- Since Apache came with a default VirtualHost file, let’s use that as a base.
+- Since Apache came with a default VirtualHost file, let’s use that as a base.  
 ![Screenshot from 2024-11-08 16-40-35](https://github.com/user-attachments/assets/b5c3827e-72f4-479d-8ee5-757d89140e7f)
-- Now we edit the configuration file
+- Now we edit the configuration file  
 ![Screenshot from 2024-11-08 16-49-44](https://github.com/user-attachments/assets/ec8ff112-a1a6-435b-9570-2a7221852259)
-- We uncomment the ServerName and change it, and We also want the DocumentRoot directive to point to the directory our site files are hosted on.
+- We uncomment the ServerName and change it, and We also want the DocumentRoot directive to point to the directory our site files are hosted on.  
 ![Screenshot from 2024-11-08 16-49-17](https://github.com/user-attachments/assets/936f47b4-0093-44eb-894e-695d944b5666)
 
 ### Activating VirtualHost file
-- we need to activate the virtual hosts configuration file to enable it
+- we need to activate the virtual hosts configuration file to enable it  
 ![Screenshot from 2024-11-08 16-55-15](https://github.com/user-attachments/assets/de227a84-1e9c-422d-825d-2a242a8513c8)
-- To load the new site, we restart Apache by typing
+- To load the new site, we restart Apache by typing  
 ![Screenshot from 2024-11-08 16-56-41](https://github.com/user-attachments/assets/f10b5cc3-7431-4280-89ba-96837e6c4b63)
-- End result
+- End result  
 ![Screenshot from 2024-11-08 17-30-17](https://github.com/user-attachments/assets/d641d000-66bd-4dc3-9fa1-f374d9d5f6b1)
 
 
