@@ -28,8 +28,8 @@ This project was made to learn how to install and work with apache.
 ## Configuration
 
 ### Creating My Own Website
-- Creating a folder for our new website in /var/www/ by running
-- ![Screenshot from 2024-11-08 16-21-15](https://github.com/user-attachments/assets/1d1c7009-db1d-4fb4-a75d-2a6c40887ff9)
+- Creating a folder for our new website in /var/www/ by running  
+![Screenshot from 2024-11-08 16-21-15](https://github.com/user-attachments/assets/1d1c7009-db1d-4fb4-a75d-2a6c40887ff9)
 - Let’s go into our newly created directory
 ![Screenshot from 2024-11-08 16-19-18](https://github.com/user-attachments/assets/cae572d8-ca3c-4efd-a4a7-c3165bf8d2fc)
 - Lets create an HTML file
