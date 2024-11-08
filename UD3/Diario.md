@@ -56,6 +56,7 @@ This project was made to learn how to install and work with apache.
 - End result  
 ![Screenshot from 2024-11-08 17-30-17](https://github.com/user-attachments/assets/d641d000-66bd-4dc3-9fa1-f374d9d5f6b1)
 - If the url doesn't work then go to **/etc/hosts** in your files, and add **127.0.1.2 gci.example.com** after the 127.0.1.1 Ubuntu
+![Screenshot From 2024-11-08 18-12-20](https://github.com/user-attachments/assets/beecb31c-5fe4-4185-be8a-54a581d5b4b4)
 
 
 
