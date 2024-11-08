@@ -61,8 +61,35 @@ This project was made to learn how to install and work with apache.
 ## Conclusion
 In this project, I explored the installation and configuration of the Apache web server, gaining hands-on experience in setting up a basic website and customizing the server to serve my content. Apache's flexibility and widespread use make it an essential tool for web developers, and through this process, I learned how to create a custom site folder, configure the VirtualHost settings, and troubleshoot common issues related to Apache configuration.
 
+## Annexes
 
-# bibliography
+### Annex A: Detailed Installation Steps
+1. **Step 1**: Install Apache on Ubuntu:
+   ```
+   sudo apt update
+   sudo apt install apache2
+   ```
+2. **Step 2**: Check if Apache is running:
+   ```
+   systemctl status apache2
+   ```
+### Annex B: Example Configuration Files
+   The default VirtualHost configuration file typically looks like this:
+   ```
+    <VirtualHost *:80>
+        ServerAdmin webmaster@localhost
+        DocumentRoot /var/www/html
+        ServerName example.com
+    </VirtualHost>
+  ```
+
+### Explanation of the Annexes:
+
+- **Annex A** contains step-by-step instructions for installing Apache, which is essential if you're following along with the project.
+- **Annex B** provides an example of an Apache `VirtualHost` configuration file, which is central to setting up Apache to serve your website.
+
+# Bibliography
 - What is Apache (https://www.greengeeks.com/blog/what-is-apache/#What_Is_Apache)
 - Apache server (https://en.wikipedia.org/wiki/Apache_HTTP_Server)
 - resolving the problem (https://discourse.ubuntu.com/t/install-and-configure-apache/13955)
+- Followed steps (https://ubuntu.com/tutorials/install-and-configure-apache#1-overview)
