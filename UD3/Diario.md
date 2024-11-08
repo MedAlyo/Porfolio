@@ -61,5 +61,6 @@ This project was made to learn how to install and work with apache.
 
 
 # bibliography
-- (https://www.greengeeks.com/blog/what-is-apache/#What_Is_Apache)
-- (https://en.wikipedia.org/wiki/Apache_HTTP_Server)
+- What is Apache(https://www.greengeeks.com/blog/what-is-apache/#What_Is_Apache)
+- Apache server(https://en.wikipedia.org/wiki/Apache_HTTP_Server)
+- resolving the problem (https://discourse.ubuntu.com/t/install-and-configure-apache/13955)
