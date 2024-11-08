@@ -52,13 +52,9 @@ This project was made to learn how to install and work with apache.
 ![Screenshot from 2024-11-08 16-55-15](https://github.com/user-attachments/assets/de227a84-1e9c-422d-825d-2a242a8513c8)
 - To load the new site, we restart Apache by typing
 ![Screenshot from 2024-11-08 16-56-41](https://github.com/user-attachments/assets/f10b5cc3-7431-4280-89ba-96837e6c4b63)
-- 
+- End result
 
-
-
-
-
-
+  
 
 
 
