@@ -8,7 +8,7 @@ I understood a lot about **Apache** and to configure it in **Linux**, and how to
 I understood most of what was giving to us in class in relation to using apache in linux and creating a mockup webpage and connecting to it. 
 
 # What did I like the most and what did I like the least?
-I found working in linux to be engaging and fun, and solving the small issues that arrose.
+I found working in linux to be engaging and fun, and solving the small issues that arrose.  
 Nothing comes to mind.
 
 # What else would I like to know related to the Unit?
